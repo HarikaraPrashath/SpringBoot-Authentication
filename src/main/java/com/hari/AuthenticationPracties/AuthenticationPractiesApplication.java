@@ -10,7 +10,7 @@ public class AuthenticationPractiesApplication {
 
 		SpringApplication.run(AuthenticationPractiesApplication.class, args);
 		System.out.println("System started");
-		System.out.println("Updating");
+
 	}
 
 }
